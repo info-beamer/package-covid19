@@ -1,0 +1,7 @@
+#!/usr/bin/python2.7
+import time
+from hosted import device
+
+while 1:
+    device.screen(on = False)
+    time.sleep(15)
