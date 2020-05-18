@@ -1,4 +1,4 @@
-# COV19 Pandemic Special Package
+# COVID19 Pandemic Special Package
 
 Importing this package to your account and assigning it to any of your devices
 will turn off the attached screen on that device.
@@ -9,7 +9,7 @@ decommision devices temporarily.
 
 **This is only a temporary feature and is
 will be reverted eventually. Be sure to check out the
-[COV19 community post](https://community.info-beamer.com/t/845) for updates.**
+[COVID19 community post](https://community.info-beamer.com/t/845) for updates.**
 
 # How to use
 
