@@ -2,6 +2,10 @@
 import time
 from hosted import device
 
+# Give the OS upgrade process a chance to verify success
+# before shutting down the screen and info-beamer.
+time.sleep(30)
+
 while 1:
     device.screen(on = False)
     time.sleep(15)

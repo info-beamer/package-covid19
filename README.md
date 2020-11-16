@@ -18,3 +18,7 @@ will be reverted eventually. Be sure to check out the
  * Assign the setup to any of your devices.
  * The billing system will skip this device when calculating your info-beamer hosted usage.
 
+# Version 2020-11-16
+
+ * Delay shutting down the screen for 20 seconds after a reboot. This
+   allows system upgrades to succeed while this package is assigned.
